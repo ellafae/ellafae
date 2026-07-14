@@ -151,7 +151,7 @@ Node.js • Express
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;1
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/manuela-mu%C3%B1oz-657246203/?locale=es">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
