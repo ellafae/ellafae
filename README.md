@@ -128,6 +128,22 @@ Node.js • Express
 
 ---
 
+# 🌸 Outside of Coding
+
+✨ Professional Dancer
+
+🎮 Gamer
+
+🎨 Design Enthusiast
+
+🌎 English C1
+
+📈 Former QA & Operations Professional
+
+💗 Lifelong Learner
+
+---
+
 # 📊 GitHub Overview
 
 <p align="center">
