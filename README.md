@@ -112,9 +112,9 @@ Node.js • Express
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ellafae&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ellafae&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellafae&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellafae&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
