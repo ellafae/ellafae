@@ -177,7 +177,7 @@ Node.js • Express
 
 <td align="center">
 
-<a href="https://www.linkedin.com/in/manuela-mu%C3%B1oz-657246203/">
+<a href="https://www.linkedin.com/in/manuela-pacheco-muñoz-657246203"/>
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
