@@ -145,19 +145,27 @@ Node.js • Express
 
 # 🤝 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="mailto:manupa1819@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://www.linkedin.com/in/manuela-mu%C3%B1oz-657246203/?locale=es">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<td width="40"></td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/manuela-mu%C3%B1oz-657246203/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
