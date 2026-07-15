@@ -2,7 +2,7 @@
 
 # 🌸 Hi, I'm Manuela Muñoz
 
-### 💻 Web Development Student | Future Full Stack Developer
+### 💻 Full Stack Web Developer in Progress
 
 I'm currently following a structured Full Stack Web Development roadmap focused on building modern, responsive and scalable web applications.
 
@@ -73,6 +73,26 @@ I enjoy transforming ideas into clean, functional and user-friendly digital expe
 - AWS
 - Nginx
 - Deployment
+
+---
+
+# 🌸 Passionate About
+
+💻 Full Stack Web Development
+
+🧪 Software Quality Assurance (QA)
+
+🎨 UI/UX Design
+
+📱 Responsive Web Experiences
+
+⚡ Building Clean & Scalable Applications
+
+🌐 REST APIs
+
+☁️ Cloud Technologies
+
+📚 Continuous Learning
 
 ---
 
