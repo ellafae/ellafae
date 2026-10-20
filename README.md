@@ -4,277 +4,116 @@
 
 ### 💻 Full Stack Web Developer | MEAN Stack
 
-I'm a Full Stack Web Development student based in Bogotá, Colombia, currently completing a structured MEAN Stack development program.
+I'm a Full Stack Web Developer specializing in the MEAN stack, with professional experience in Quality Assurance, Operations and Customer Support.
 
-I build responsive web applications with a focus on **clean architecture, functional user experiences and practical solutions**. My current work combines frontend development with Angular, backend development with Node.js and Express, and database management with MongoDB.
+I build responsive web applications by combining frontend development, backend logic, database integration and user-centered design.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=E88AAE&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer+in+the+making.;Building+functional+and+beautiful+web+applications.;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+working+applications." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=E88AAE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+functional+and+beautiful+applications;Quality+Minded.+Design+Driven." alt="Animated introduction" />
+
+📍 Bogotá, Colombia
+
+[LinkedIn](https://www.linkedin.com/in/manuela-pacheco-muñoz-657246203/) · [Email](mailto:manupa1819@gmail.com) · [GitHub](https://github.com/ellafae)
 
 </div>
 
 ---
 
-# 🌷 About Me
+## 🩷 Tech Stack
 
-💗 Based in **Bogotá, Colombia**
+<div align="center">
 
-🎓 Completing my **Full Stack Web Development program** in November 2026
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,nodejs,express,mongodb,git,github,vscode,postman" alt="Technologies and development tools" />
 
-💻 Focused on **MEAN Stack Web Development**
-
-🧩 Interested in building complete applications from frontend to backend
-
-🧪 Previous experience in **Quality Assurance, Customer Support and Operations**
-
-🎨 Passionate about **UI/UX, responsive design and clean user experiences**
-
-🌱 Always learning and improving through hands-on projects
-
-🎯 Currently looking for opportunities to grow as a **Full Stack Developer, QA or technology professional**
-
----
-
-# 🩷 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,angular,nodejs,express,mongodb,git,github,vscode,postman" />
-
-</p>
+</div>
 
 ### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Angular
-* Bootstrap
-* Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular
+- Bootstrap
+- Responsive Web Design
 
 ### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* MVC Architecture
-* CRUD Operations
-* Session-based Authentication
-* Role-based Access
+- Node.js
+- Express.js
+- REST APIs
+- MVC Architecture
+- CRUD Operations
+- Session-based Authentication
+- Access Control
 
 ### Database
-
-* MongoDB
-* Mongoose
+- MongoDB
+- Mongoose
 
 ### Development Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* Postman
-* MongoDB Compass
+- Git and GitHub
+- Visual Studio Code
+- Postman
+- MongoDB Compass
 
 ---
 
-# 🌸 What I Build
+## 🚀 Featured Project
 
-I enjoy developing applications that connect the **frontend, backend and database into a complete working system**.
+### 🌸 Modern Vintage Beauty
 
-Some of the concepts I currently work with include:
+**A full-stack web application for a beauty business, featuring a public website and private management areas.**
 
-* 🔐 User registration and authentication
-* 👤 Private user areas
-* 🛡️ Role-based access and permissions
-* 🗂️ CRUD operations
-* 🔌 REST API integration
-* 🧩 MVC architecture
-* 🖼️ Image uploads and management
-* 📊 Administrative dashboards
-* 📅 Appointment management
-* 📩 Contact and lead management
-* 📱 Responsive interfaces
-* 🗄️ MongoDB data management
-* 🔄 Frontend ↔ Backend communication
+Modern Vintage Beauty is a full-stack project developed as part of my Full Stack Web Development program. It connects an Angular frontend to a Node.js and Express backend, with MongoDB for persistent data storage.
 
----
+The application brings together business information, client management, products, services, appointments and incoming leads in one system.
 
-# 🚀 Featured Project
+### ✨ Key Features
 
-## 🌸 Modern Vintage Beauty
-
-**Modern Vintage Beauty** is a full-stack web application developed as part of my Full Stack Web Development program.
-
-The project was designed for a beauty business and includes both a **public-facing website and private management areas**.
-
-### ✨ Main Features
-
-* 🏠 Public business website
-* 👤 User registration and login
-* 🔐 Session-based authentication
-* 🛡️ Private admin and client areas
-* 👥 Client management
-* 👩‍💼 Team management
-* 💅 Services management
-* 🛍️ Products management
-* 📅 Appointment management
-* 📩 Contact and lead management
-* 📊 Administrative dashboard
-* 🖼️ Product and service image uploads
-* 🗄️ MongoDB database integration
-* 🔌 Angular ↔ Node.js/Express communication
+- 🏠 Public-facing business website
+- 🔐 User registration, login and session management
+- 👤 Private administrative and client areas
+- 👥 Client management
+- 👩‍💼 Team management
+- 💅 Service catalog and management
+- 🛍️ Product catalog and management
+- 📅 Appointment management
+- 📩 Contact and lead management
+- 📊 Administrative dashboard with dynamic data
+- 🖼️ Product and service image uploads
+- 🗄️ MongoDB database integration
+- 🔌 Frontend-to-backend communication through REST APIs
 
 ### 🧰 Technologies
 
-**Angular • TypeScript • Node.js • Express.js • MongoDB • Mongoose • Bootstrap • JavaScript • HTML5 • CSS3**
+`Angular` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Bootstrap` `JavaScript` `HTML5` `CSS3`
 
----
+### 🔗 Project Links
 
-# 🧪 QA & Software Quality
+- **Frontend Repository:** [Modern Vintage Beauty Web App](https://github.com/ellafae/modernvintagebeautywebapp)
+- **Backend Repository:** [Modern Vintage Beauty Backend](https://github.com/ellafae/backendmvb)
+- **Live Demo:** Coming soon
 
-Before moving into Full Stack Development, I gained professional experience in **Quality Assurance and Operations**, which strongly influences the way I approach software development.
+### 🏗️ Architecture
 
-I'm particularly interested in:
+The application follows a client-server architecture with separate frontend, backend and database responsibilities.
 
-* Functional testing
-* Quality assurance
-* Identifying edge cases
-* User-centered thinking
-* Requirements analysis
-* Process improvement
-* Debugging
-* Application reliability
-
-I believe good development is not only about making something work, but also about making sure it **works correctly for the person using it**.
-
----
-
-# 🎨 Design & User Experience
-
-I enjoy combining development with visual design.
-
-My projects focus on:
-
-🌷 Clean and intuitive interfaces
-
-💗 Consistent visual identity
-
-📱 Responsive layouts
-
-🧭 Simple navigation
-
-✨ User-friendly interactions
-
-🎨 Thoughtful use of typography, spacing and color
-
-I especially enjoy creating interfaces that feel **functional without looking boring**.
-
----
-
-# 📚 Current Development Focus
-
-As I approach the completion of my Full Stack Web Development program in **November 2026**, my current focus is on strengthening the skills I use in real projects:
-
-* Angular application development
-* Node.js & Express backend development
-* MongoDB database management
-* REST API development
-* MVC architecture
-* Authentication and authorization
-* CRUD applications
-* Frontend/backend integration
-* Git & GitHub
-* Responsive web development
-* Software quality and testing
-
----
-
-# 🌱 2026 Learning Journey
-
-* ✅ HTML5 & CSS3
-* ✅ JavaScript
-* ✅ Responsive Web Design
-* ✅ Bootstrap
-* ✅ Git & GitHub
-* ✅ Node.js
-* ✅ Express.js
-* ✅ MongoDB
-* ✅ Mongoose
-* ✅ Angular
-* ✅ MVC Architecture
-* ✅ REST APIs
-* ✅ CRUD Applications
-* ✅ Authentication & Sessions
-* ✅ Frontend ↔ Backend Integration
-* 🔄 Full Stack Project Development
-* 🎯 Program completion — **November 12, 2026**
-
----
-
-# 💗 Beyond Coding
-
-💃 Professional Dancer
-
-🎮 Gamer
-
-🎨 Design Enthusiast
-
-🧪 QA & Operations Background
-
-🌎 English C1
-
-📚 Lifelong Learner
-
-💻 Future Full Stack Developer
-
----
-
-# 📊 GitHub Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellafae&theme=rose_pine"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ellafae&theme=rose-pine&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-<a href="mailto:manupa1819@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-</a>
-
-</td>
-
-<td width="40"></td>
-
-<td align="center">
-
-<a href="https://www.linkedin.com/in/manuela-pacheco-muñoz-657246203/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
+```text
+User
+  |
+  v
+Angular Frontend
+  |
+  | HTTP Requests / JSON
+  v
+Node.js + Express API
+  |
+  v
+Controllers
+  |
+  v
+Mongoose Models
+  |
+  v
+MongoDB Database
 ---
 
 <div align="center">
