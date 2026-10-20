@@ -90,7 +90,6 @@ The application brings together business information, client management, product
 
 - **Frontend Repository:** [Modern Vintage Beauty Web App](https://github.com/ellafae/modernvintagebeautywebapp)
 - **Backend Repository:** [Modern Vintage Beauty Backend](https://github.com/ellafae/backendmvb)
-- **Live Demo:** Coming soon
 
 ### 🏗️ Architecture
 
