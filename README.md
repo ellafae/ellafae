@@ -27,7 +27,6 @@ I build responsive web applications by combining frontend development, backend l
 </div>
 
 ### Frontend
-
 - HTML5
 - CSS3
 - JavaScript
@@ -37,7 +36,6 @@ I build responsive web applications by combining frontend development, backend l
 - Responsive Web Design
 
 ### Backend
-
 - Node.js
 - Express.js
 - REST APIs
@@ -47,12 +45,10 @@ I build responsive web applications by combining frontend development, backend l
 - Access Control
 
 ### Database
-
 - MongoDB
 - Mongoose
 
 ### Development Tools
-
 - Git and GitHub
 - Visual Studio Code
 - Postman
@@ -120,8 +116,6 @@ Mongoose Models
 MongoDB Database
 ```
 
-**Architecture overview:**
-
 - **Frontend:** Angular manages the interface, navigation, forms and API communication.
 - **Backend:** Node.js and Express handle HTTP requests and expose REST endpoints.
 - **Controllers:** Process requests, perform validations and return responses.
@@ -131,19 +125,27 @@ MongoDB Database
 
 ### 📸 Application Preview
 
-Screenshots will be added as the project portfolio is finalized.
+Here is a preview of Modern Vintage Beauty, including the public homepage, login interface and private administrative area.
 
-<!--
-Upload screenshots to a folder such as docs/screenshots/
-inside your repository, then replace the placeholders below.
+<div align="center">
 
-![Modern Vintage Beauty Homepage](docs/screenshots/homepage.png)
-![Admin Dashboard](docs/screenshots/dashboard.png)
-![Appointment Management](docs/screenshots/appointments.png)
-![Product Management](docs/screenshots/products.png)
-![Service Management](docs/screenshots/services.png)
-![Login Page](docs/screenshots/login.png)
--->
+#### 🏠 Homepage
+
+<img src="docs/Home.png" alt="Modern Vintage Beauty homepage" width="850" />
+
+<br/>
+
+#### 🔐 Login
+
+<img src="docs/Login.png" alt="Modern Vintage Beauty login page" width="650" />
+
+<br/>
+
+#### 📊 Admin Zone
+
+<img src="docs/adminzone.png" alt="Modern Vintage Beauty administrative area" width="850" />
+
+</div>
 
 ---
 
@@ -230,7 +232,6 @@ My goal is to combine my technical knowledge and professional experience to cont
 - 🎨 Design enthusiast
 - 🌎 English C1
 - 📚 Lifelong learner
-- 💻 Full Stack Developer | MEAN Stack
 
 ---
 
