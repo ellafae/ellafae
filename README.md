@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 🌸 Hi, I'm Manuela Muñoz
 
@@ -12,7 +12,7 @@ I build responsive web applications by combining frontend development, backend l
 
 📍 Bogotá, Colombia
 
-[LinkedIn](https://www.linkedin.com/in/manuela-pacheco-muñoz-657246203/) · [Email](mailto:manupa1819@gmail.com) · [GitHub](https://github.com/ellafae)
+[LinkedIn](https://www.linkedin.com/in/manuela-pacheco-munoz-web-developer/) · [Email](mailto:manupa1819@gmail.com)
 
 </div>
 
@@ -27,6 +27,7 @@ I build responsive web applications by combining frontend development, backend l
 </div>
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
@@ -36,6 +37,7 @@ I build responsive web applications by combining frontend development, backend l
 - Responsive Web Design
 
 ### Backend
+
 - Node.js
 - Express.js
 - REST APIs
@@ -45,10 +47,12 @@ I build responsive web applications by combining frontend development, backend l
 - Access Control
 
 ### Database
+
 - MongoDB
 - Mongoose
 
 ### Development Tools
+
 - Git and GitHub
 - Visual Studio Code
 - Postman
@@ -114,12 +118,163 @@ Mongoose Models
   |
   v
 MongoDB Database
+```
+
+**Architecture overview:**
+
+- **Frontend:** Angular manages the interface, navigation, forms and API communication.
+- **Backend:** Node.js and Express handle HTTP requests and expose REST endpoints.
+- **Controllers:** Process requests, perform validations and return responses.
+- **Models:** Define and manage application data through Mongoose.
+- **Database:** MongoDB stores persistent application data.
+- **Authentication:** Sessions and middleware protect private areas and restrict access.
+
+### 📸 Application Preview
+
+Screenshots will be added as the project portfolio is finalized.
+
+<!--
+Upload screenshots to a folder such as docs/screenshots/
+inside your repository, then replace the placeholders below.
+
+![Modern Vintage Beauty Homepage](docs/screenshots/homepage.png)
+![Admin Dashboard](docs/screenshots/dashboard.png)
+![Appointment Management](docs/screenshots/appointments.png)
+![Product Management](docs/screenshots/products.png)
+![Service Management](docs/screenshots/services.png)
+![Login Page](docs/screenshots/login.png)
+-->
+
+---
+
+## 💻 Other Projects
+
+### 📦 Products CRUD
+
+A product management application developed to practice frontend development, data operations and CRUD functionality.
+
+**Technologies:** JavaScript · HTML5 · CSS3
+
+### 👥 Clients CRUD
+
+A client management application focused on backend development, data handling and structured application logic.
+
+**Technologies:** Node.js · Express.js · MVC Architecture
+
+---
+
+## 🧪 Quality Assurance & Software Testing
+
+My professional background in Quality Assurance and Operations influences the way I approach software development.
+
+I value reliable functionality, clear requirements, attention to detail and continuous improvement.
+
+### Areas of Interest
+
+- Functional testing
+- Test case design
+- Requirements analysis
+- Bug identification and reporting
+- Edge-case analysis
+- Regression testing
+- Debugging and troubleshooting
+- User experience validation
+- Process improvement
+
+I believe good software is not only about implementing features. It is also about validating behavior, anticipating potential issues and delivering reliable solutions.
+
+---
+
+## 💼 Professional Experience
+
+Before focusing on Full Stack Development, I gained professional experience in **Quality Assurance, Reporting, Operations and Customer Support**.
+
+These roles helped me develop transferable skills that I bring to technology projects:
+
+- Analytical thinking and attention to detail
+- Quality monitoring and performance analysis
+- Problem-solving and troubleshooting
+- Documentation and process improvement
+- Communication and collaboration
+- Team coordination and leadership
+- Understanding user needs and service quality
+
+My goal is to combine my technical knowledge and professional experience to contribute to development teams that value quality, collaboration and practical problem-solving.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manuela-pacheco-munoz-web-developer/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:manupa1819@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
+</a>
+
+<br/><br/>
+
+💼 Open to opportunities in Full Stack Development and Quality Assurance.
+
+</div>
+
+---
+
+## 🌸 Beyond Coding
+
+- 💃 Professional dancer
+- 🎮 Gamer
+- 🎨 Design enthusiast
+- 🌎 English C1
+- 📚 Lifelong learner
+- 💻 Full Stack Developer | MEAN Stack
+
+---
+
+## 📚 Learning Journey · 2026
+
+Currently completing my Full Stack Web Development program, with a planned completion date of **November 12, 2026**.
+
+My focus is on strengthening my practical skills through application development and continuous learning.
+
+- ✅ HTML5 and CSS3
+- ✅ JavaScript and TypeScript
+- ✅ Responsive Web Design
+- ✅ Bootstrap
+- ✅ Git and GitHub
+- ✅ Angular
+- ✅ Node.js and Express.js
+- ✅ MongoDB and Mongoose
+- ✅ REST APIs
+- ✅ MVC Architecture
+- ✅ CRUD Applications
+- ✅ Authentication and Sessions
+- 🔄 Full Stack Project Development
+- 🎯 Program completion: November 12, 2026
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellafae&theme=rose_pine" alt="GitHub profile summary" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ellafae&theme=rose-pine&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
 ---
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
+### 💗 Thanks for visiting my profile!
 
-**Building with purpose, learning with curiosity, and improving one project at a time.** 💗
+**Building with purpose, learning with curiosity, and improving one project at a time.** 🌸
 
 </div>
