@@ -2,307 +2,281 @@
 
 # 🌸 Hi, I'm Manuela Muñoz
 
-### Frontend Developer | Angular & TypeScript | QA & Software Testing
+### Full Stack Web Developer | Frontend Development | Quality Assurance
 
-**Building functional, accessible and user-centered web applications with a quality-first mindset.**
+**Building functional, reliable and user-centered web applications.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=E88AAE&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;Angular+%7C+TypeScript+%7C+JavaScript;QA+%7C+Software+Testing+%7C+Quality+Assurance;Full+Stack+Development+Experience;From+Development+to+Production+Deployment" alt="Animated introduction" />
+I'm a Web Developer with a background in Quality Assurance, Operations and Customer Support. I specialize in frontend development with Angular and TypeScript, while also working with Node.js, Express and MongoDB to build complete web applications.
+
+My approach combines technical development, software testing, attention to detail and user experience. I enjoy transforming requirements into functional interfaces and making sure applications work as expected, not just look good.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=E88AAE&center=true&vCenter=true&width=750&lines=Frontend+Development+%7C+Angular+%26+TypeScript;Quality+Assurance+%26+Software+Testing;Full+Stack+Web+Development;From+Development+to+Production;Quality+Minded.+Design+Driven." alt="Animated introduction" />
 
 📍 Bogotá, Colombia
 
-🌎 English: C1
-
-[LinkedIn](https://www.linkedin.com/in/manuela-pacheco-munoz-web-developer/) · [Email](mailto:manupa1819@gmail.com) · [Portfolio Project](https://modernvintagebeauty.mel-ve.com)
+[LinkedIn](https://www.linkedin.com/in/manuela-pacheco-munoz-web-developer/) · [GitHub](https://github.com/ellafae) · [Email](mailto:manupa1819@gmail.com)
 
 </div>
 
 ---
 
-## 🩷 About Me
-
-I'm a **Frontend Developer with a background in Quality Assurance, Software Testing and Operations**, passionate about creating functional, responsive and visually engaging web applications.
-
-I have completed my Full Stack Web Development training and gained hands-on experience building and deploying a complete web application, from frontend development and backend integration to database management, testing and production deployment.
-
-My technical focus is **Frontend Development, particularly Angular, TypeScript, JavaScript, HTML5 and CSS3**, complemented by practical experience in software testing and backend development.
-
-Before transitioning into software development, I worked in Quality Assurance, Reporting and Operations, where I developed strong analytical skills, attention to detail, problem-solving abilities and a quality-oriented mindset.
-
-I believe great software requires more than writing code. It requires understanding users, validating functionality, identifying potential issues and delivering reliable solutions.
-
-**My goal is to combine development and quality assurance to build better software and contribute to teams that value clean interfaces, reliable functionality and continuous improvement.**
-
----
-
-## 💻 Technical Skills
+## 🩷 Technical Skills
 
 ### 🎨 Frontend Development
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" alt="Frontend technologies" />
-
-</div>
-
 - HTML5 and semantic markup
-- CSS3 and custom styling
+- CSS3 and responsive web design
 - JavaScript (ES6+)
 - TypeScript
-- Angular
+- Angular 17
 - Angular Components, Services and Routing
 - Reactive forms and form validation
-- HTTP Client and REST API integration
-- Responsive Web Design
 - Bootstrap 4.6
-- Dynamic data rendering
-- User Interface Development
-- Frontend architecture and component-based development
-
-### 🧪 Quality Assurance & Software Testing
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=jest" alt="Testing tools" />
-
-</div>
-
-- Unit Testing
-- Angular Testing with Jasmine and Karma
-- Test case design and execution
-- Functional Testing
-- API Testing with Postman
-- Integration Testing
-- Requirements Analysis
-- Bug Identification and Reporting
-- Regression Testing
-- Edge-case and validation testing
-- Debugging and Troubleshooting
-- Test coverage and quality validation
-- User Experience Validation
-- Continuous Improvement
+- Font Awesome
+- Chart.js
+- REST API integration
+- User Interface (UI) implementation
+- User Experience (UX) principles
+- Responsive layouts and accessibility awareness
 
 ### ⚙️ Backend Development
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
-
-</div>
-
 - Node.js
 - Express.js
-- RESTful API Development
-- MVC Architecture
-- CRUD Operations
-- Middleware
-- Session-based Authentication
-- Role-based Access Control
-- Password Encryption with bcrypt
-- Email Services with Nodemailer
-- File Uploads with Multer
-- Server-side Validation
+- RESTful API development
+- MVC architecture
+- CRUD operations
+- Middleware implementation
+- Session-based authentication
+- Role-based access control
+- Password hashing with bcrypt
+- File uploads with Multer
+- Email integration with Nodemailer
+- Server-side validation
+- HTTP requests and JSON communication
 
 ### 🗄️ Databases
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" />
-
-</div>
-
 - MongoDB
 - Mongoose
-- Database Modeling
-- Schema Validation
-- Data Relationships and Management
-- CRUD Database Operations
-
-### 🚀 Deployment & Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash" alt="Development and deployment tools" />
-
-</div>
-
-- Git and GitHub
-- Visual Studio Code
-- Postman
+- Database modeling
+- Schema validation
+- CRUD operations
+- Data relationships and queries
 - MongoDB Compass
-- npm and Node Package Management
-- Linux / Ubuntu Server
+
+### 🧪 Quality Assurance & Software Testing
+
+- Unit Testing
+- Jasmine
+- Karma
+- Jest
+- Functional Testing
+- Test Case Design
+- Requirements Analysis
+- Bug Identification and Reporting
+- Regression Testing
+- Frontend Component Testing
+- Backend Testing
+- API Testing with Postman
+- Test Coverage
+- Debugging and Troubleshooting
+- Edge Case Analysis
+- Software Quality Validation
+
+### ☁️ Deployment & Infrastructure
+
+- DigitalOcean
+- Debian Linux
+- Ubuntu Linux
+- Linux Command Line
 - SSH and Remote Server Administration
+- Node.js Production Environments
 - PM2 Process Management
 - Application Deployment
-- Production Environment Configuration
-- Environment Variables
-- Frontend and Backend Integration
+- Environment Configuration
+- Production Troubleshooting
+- Git and GitHub
 
-### 📊 Additional Technologies
+### 🛠️ Development Tools
 
-- Chart.js
-- Font Awesome
-- JSON
-- HTTP
-- Bootstrap
-- REST API Architecture
-- Session Management
-- Nodemailer
+- Visual Studio Code
+- Git
+- GitHub
+- Postman
+- MongoDB Compass
+- npm
+- Terminal / Linux Shell
 
 ---
 
 ## 🚀 Featured Project
 
-# 🌸 Modern Vintage Beauty
+### 🌸 Modern Vintage Beauty by Kmelissa
 
-### Full Stack Web Application | Live Production Deployment
-
-**A complete web application developed for a beauty business, combining a public-facing website with private administrative and client management systems.**
+**A complete Full Stack Web Application designed, developed, tested and deployed to production.**
 
 <div align="center">
 
 <a href="https://modernvintagebeauty.mel-ve.com">
-
-<img src="docs/Home.png" alt="Modern Vintage Beauty homepage" width="850" />
-
-**🌐 LIVE APPLICATION: modernvintagebeauty.mel-ve.com**
-
+<img src="https://img.shields.io/badge/🌸_LIVE_APPLICATION-Visit_Website-E88AAE?style=for-the-badge" alt="Visit Modern Vintage Beauty" />
 </a>
 
-[Visit Website](https://modernvintagebeauty.mel-ve.com) · [Frontend Repository](https://github.com/ellafae/modernvintagebeautywebapp) · [Backend Repository](https://github.com/ellafae/backendmvb)
+<a href="https://github.com/ellafae/modernvintagebeautywebapp">
+<img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Frontend repository" />
+</a>
+
+<a href="https://github.com/ellafae/backendmvb">
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend repository" />
+</a>
 
 </div>
 
-### 📌 Project Overview
+Modern Vintage Beauty is a full-stack application developed for a beauty business as my final project during my Full Stack Web Development program.
 
-Modern Vintage Beauty is a production-ready web application developed as my final Full Stack Web Development project.
+The project goes beyond a traditional CRUD application. It provides a complete business management solution, combining a public-facing website with private administrative and client environments.
 
-The application was built using Angular for the frontend, Node.js and Express.js for the backend, and MongoDB for persistent data storage.
-
-The project includes a responsive public website, user authentication, private management areas, appointment scheduling, product and service catalogs, customer management and administrative reporting.
-
-Beyond development, I configured and deployed the application to a remote Ubuntu server, managed the backend process with PM2 and made the application publicly accessible through its production domain.
-
-This project allowed me to work through the complete development lifecycle: planning, implementation, frontend and backend integration, database configuration, testing, server setup, deployment and production validation.
+I worked across the entire development lifecycle, from interface implementation and database integration to testing, server configuration and production deployment.
 
 ### ✨ Main Features
 
 **Frontend & User Experience**
-- Responsive public business website.
-- Dynamic product and service catalogs.
-- Angular component-based architecture.
-- Navigation and routing.
-- Form handling and validation.
-- Integration with backend REST APIs.
-- Private client and administrator interfaces.
-- Dynamic administrative dashboard.
-- Data visualization with Chart.js.
+- Responsive public-facing website.
+- Business information and service presentation.
+- Product and service catalogs.
+- Registration and login interfaces.
+- Client dashboard and private navigation.
+- Administrative dashboard.
+- Dynamic charts and business statistics.
+- Forms with validation and user feedback.
+- Image display and management.
 
 **Authentication & Security**
 - User registration and login.
 - Password hashing with bcrypt.
 - Session-based authentication.
-- Email verification.
-- Password recovery through email.
-- Password change functionality.
+- Protected routes through backend middleware.
 - Role-based access control.
-- Protected backend routes and middleware.
 - Separate administrator and client permissions.
+- Email verification.
+- Password recovery and password changes.
 
 **Business Management**
 - Client management.
 - Employee management.
-- Product management and CRUD operations.
-- Service management and CRUD operations.
+- Product management.
+- Service management.
 - Appointment scheduling and management.
 - Appointment rescheduling and cancellation.
-- Contact form and lead management.
-- Lead status tracking.
-- Administrative statistics and reporting.
-- Image uploads for products and services.
+- Contact forms and lead management.
+- Lead tracking and status management.
+- Administrative statistics and dashboards.
 
 **Backend & Database**
 - REST API development.
 - MVC architecture.
-- Express controllers and routes.
-- Mongoose models and schemas.
-- MongoDB integration.
-- Server-side validation.
-- File handling with Multer.
-- Email functionality with Nodemailer.
-
-**Deployment & Production**
-- Remote Ubuntu server configuration.
-- SSH access and server administration.
-- Node.js application deployment.
-- PM2 process management.
-- Production environment configuration.
-- Public application deployment.
-- Frontend and backend production integration.
-
-### 🧰 Technologies Used
-
-`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap 4.6` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `MVC` `bcrypt` `Nodemailer` `Multer` `Chart.js` `Git` `GitHub` `Linux` `Ubuntu` `PM2`
-
-### 🏗️ Application Architecture
-
-The project follows a client-server architecture with separate frontend, backend and database responsibilities.
-
-```text
-                   USER
-                     |
-                     v
-              ANGULAR FRONTEND
-              HTML / CSS / TS
-                     |
-                     | HTTP / JSON
-                     v
-              NODE.JS + EXPRESS
-                  REST API
-                     |
-                     v
-                CONTROLLERS
-                     |
-                     v
-              MONGOOSE MODELS
-                     |
-                     v
-                 MONGODB
-```
-
-**Frontend:** Angular handles the user interface, components, routing, forms, navigation and API communication.
-
-**Backend:** Node.js and Express.js handle HTTP requests, business logic, validations and API endpoints.
-
-**Controllers:** Process requests and coordinate application operations.
-
-**Models:** Define data structures and database interactions through Mongoose.
-
-**Database:** MongoDB stores application information persistently.
-
-**Security:** Authentication sessions, password encryption and middleware protect private resources and control access according to user roles.
+- MongoDB integration through Mongoose.
+- Data validation and database operations.
+- File uploads with Multer.
+- Session persistence with MongoDB.
+- Frontend-to-backend integration.
 
 ### 🧪 Testing & Quality Assurance
 
-Quality assurance was an important part of the development process.
+Software quality was an important part of the development process.
 
-I worked with unit testing and application validation to verify component behavior, identify issues and improve application reliability.
+I worked with unit testing and application validation to verify functionality and identify potential issues throughout development.
 
 Testing tools and practices included:
 
-- Jasmine and Karma for Angular unit testing.
-- TestBed and ComponentFixture for component testing.
-- HTTP service dependency configuration.
-- Router configuration in test environments.
-- Test execution and failure analysis.
-- Functional validation of application features.
-- API testing with Postman.
-- Validation of frontend and backend communication.
-- Real backend and database integration during testing.
+- Jasmine and Karma for Angular unit tests.
+- Jest for backend testing.
+- Component testing.
+- API validation using Postman.
+- Functional validation of application workflows.
+- Authentication and authorization testing.
+- Error handling and input validation.
+- Debugging and troubleshooting.
 
-My QA background helped me approach development with a focus on expected behavior, input validation, edge cases and reliable functionality.
+### ☁️ Production Deployment
 
-### 📸 Application Screenshots
+One of the most valuable parts of this project was taking the application from local development to a real production environment.
+
+I gained practical experience with:
+
+- DigitalOcean cloud infrastructure.
+- Debian Linux server environment.
+- Remote server access and administration through SSH.
+- Linux terminal commands and server configuration.
+- Node.js application deployment.
+- PM2 for process management.
+- Production environment troubleshooting.
+- Backend and frontend integration in a live application.
+
+**The application is deployed and publicly accessible.**
+
+🔗 https://modernvintagebeauty.mel-ve.com
+
+### 🧰 Technologies Used
+
+`Angular 17` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap 4.6` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `Chart.js` `Jasmine` `Karma` `Jest` `Postman` `Multer` `bcrypt` `Nodemailer` `Git` `GitHub` `DigitalOcean` `Debian` `Linux` `PM2`
+
+### 🏗️ Application Architecture
+
+The project follows a client-server architecture with an MVC backend structure.
+
+```text
+                USER
+                  |
+                  v
+          ANGULAR FRONTEND
+           (Components)
+                  |
+                  v
+           Angular Services
+                  |
+                  | HTTP / JSON
+                  v
+           NODE.JS + EXPRESS
+                  |
+                  v
+              ROUTES
+                  |
+                  v
+            MIDDLEWARE
+                  |
+                  v
+             CONTROLLERS
+                  |
+                  v
+           MONGOOSE MODELS
+                  |
+                  v
+             MONGODB
+```
+
+**Deployment environment:**
+
+```text
+          DIGITALOCEAN
+                |
+                v
+           DEBIAN LINUX
+                |
+                v
+          NODE.JS SERVER
+                |
+                v
+               PM2
+                |
+                v
+         EXPRESS BACKEND
+                |
+                v
+          PRODUCTION APP
+```
+
+### 📸 Application Preview
 
 <div align="center">
 
@@ -310,7 +284,7 @@ My QA background helped me approach development with a focus on expected behavio
 
 <img src="docs/Home.png" alt="Modern Vintage Beauty homepage" width="850" />
 
-#### 🔐 User Authentication
+#### 🔐 Login Interface
 
 <img src="docs/Login.png" alt="Modern Vintage Beauty login page" width="650" />
 
@@ -322,90 +296,88 @@ My QA background helped me approach development with a focus on expected behavio
 
 ---
 
-## 🧪 Quality Assurance & Professional Background
+## 💻 Other Development Projects
 
-Before transitioning into software development, I built my professional career in **Quality Assurance, Reporting, Operations and Customer Support**.
+### 📦 Products CRUD
 
-I have experience working with quality monitoring, performance indicators, operational processes, reporting, troubleshooting and team coordination.
+A product management application developed to practice frontend development, data manipulation and CRUD functionality.
 
-My professional experience includes:
+**Technologies:** JavaScript · HTML5 · CSS3
 
-- Quality Assurance Manager
-- Reporting and Back Office
-- Customer Support and Technical Support
-- Operations and Performance Monitoring
-- Team Supervision and Coordination
+### 👥 Clients CRUD
 
-These experiences shaped the way I approach software development.
+A client management application focused on backend development, structured data handling and MVC architecture.
 
-### My QA Strengths
-
-- Analytical and critical thinking.
-- Attention to detail.
-- Requirements understanding and analysis.
-- Functional validation.
-- Problem identification and investigation.
-- Process documentation.
-- Performance and quality monitoring.
-- Root cause analysis.
-- Communication and teamwork.
-- Continuous improvement.
-
-I bring a quality-first mindset to development, combining technical implementation with the ability to evaluate whether a solution actually works as expected.
+**Technologies:** Node.js · Express.js · MVC Architecture
 
 ---
 
-## 💼 What I Bring to a Development Team
+## 🔍 Quality Assurance Mindset
 
-| Area | My Contribution |
-|---|---|
-| Frontend Development | Responsive interfaces, Angular components and API integration |
-| Software Testing | Unit testing, functional testing and bug identification |
-| Quality Assurance | Requirements analysis and quality validation |
-| Backend Development | REST APIs, Node.js, Express and MongoDB |
-| Problem Solving | Analytical thinking and troubleshooting |
-| Operations | Process improvement, reporting and performance monitoring |
-| Collaboration | Communication, teamwork and leadership experience |
+My previous professional experience in Quality Assurance, Reporting and Operations strongly influences how I approach software development.
 
-I am particularly interested in opportunities where I can contribute to frontend development, software quality and testing while continuing to grow as a developer.
+I don't see testing as something that happens only after development. I believe quality should be considered throughout the entire software development lifecycle.
+
+My QA background has helped me develop skills in:
+
+- Analytical thinking and attention to detail.
+- Requirements interpretation and validation.
+- Identifying inconsistencies and unexpected behavior.
+- Functional testing and test case design.
+- Root cause analysis and troubleshooting.
+- Quality monitoring and performance analysis.
+- Process documentation and continuous improvement.
+- User-centered validation.
+
+I enjoy working at the intersection of development and quality, where technical functionality meets real user expectations.
 
 ---
 
-## 💗 Beyond Coding
+## 💼 Professional Background
 
-- 💃 Professional dancer and creative enthusiast.
+Before transitioning into Web Development, I built professional experience in:
+
+- Quality Assurance and Quality Monitoring.
+- Reporting and Back Office Operations.
+- Customer Support and Technical Support.
+- Retention and Problem Resolution.
+- Team Coordination and Leadership.
+- Performance Monitoring and Process Improvement.
+
+This experience gave me a solid foundation in communication, analytical thinking, problem-solving and understanding business requirements.
+
+I bring that perspective into every technical project I work on.
+
+---
+
+## 🎯 Career Interests
+
+I'm particularly interested in opportunities involving:
+
+- **Frontend Development:** Angular, TypeScript, JavaScript and responsive interfaces.
+- **Quality Assurance:** Software testing, functional testing and quality validation.
+- **Software Testing:** Unit testing, test cases, debugging and regression testing.
+- **Full Stack Development:** Angular, Node.js, Express and MongoDB.
+
+I'm looking to contribute to collaborative teams where technical quality, continuous improvement and user experience matter.
+
+---
+
+## 🌸 Beyond Coding
+
+- 💃 Professional dancer.
 - 🎮 Gamer.
-- 🎨 Interested in web design and visual experiences.
-- 🌎 English proficiency: C1.
-- 📚 Always learning and exploring new technologies.
+- 🎨 Design enthusiast.
+- 🌎 English: C1.
+- 📚 Lifelong learner.
 
 I enjoy combining creativity and technical problem-solving to build applications that are both functional and visually engaging.
 
 ---
 
-## 📊 GitHub Overview
+## 🤝 Let's Connect
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellafae&theme=rose_pine" alt="GitHub profile summary" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ellafae&theme=rose-pine&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm open to opportunities in:
-
-**Frontend Development · Angular Development · Quality Assurance · Software Testing**
-
-<br/>
 
 <a href="https://www.linkedin.com/in/manuela-pacheco-munoz-web-developer/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
@@ -421,16 +393,12 @@ I'm open to opportunities in:
 
 <br/><br/>
 
-**💼 Let's build reliable, meaningful and beautiful software together.**
+💼 **Open to Frontend Development, Quality Assurance and Software Testing opportunities.**
 
-</div>
+<br/>
 
----
+### 💗 Thanks for visiting my profile!
 
-<div align="center">
-
-### 🌸 Thanks for visiting my profile!
-
-**Code with purpose. Test with precision. Build with creativity.** 💗
+**Building with purpose. Testing with precision. Creating with curiosity.** 🌸
 
 </div>
